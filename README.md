@@ -1,4 +1,4 @@
-Water Me! app
+Water Me! app (Teste de Workmaneger)
 =======================================
 
 This repository contains the code for the Water Me! app project.
